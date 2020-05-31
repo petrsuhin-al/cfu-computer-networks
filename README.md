@@ -1,4 +1,4 @@
-# COMPUTER NETWORKS | КОМПЬЮТЕРНЫЕ СЕТИ
+# COMPUTER NETWORKS
 *CFU - Crimean Federal University.
 
 #### Practical tasks on the academic subject "Computer Networks".
